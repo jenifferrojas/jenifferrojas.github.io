@@ -1,0 +1,135 @@
+body{
+    margin: 20px;
+    padding: 70px;
+    box-sizing: content-box;
+}
+div.padre{
+    margin: 6px;
+    padding: 20px;
+    border-top: 60px solid rgb(231, 195, 195);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width: 30cm;
+    background: whitesmoke;
+    border-bottom: 60px solid rgb(231, 195, 195);
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+body{
+    justify-content: center;
+}
+main.cuerpo{
+    display: flex;
+    width: 30cm;
+    height: 35cm;
+    margin: 6px;
+    padding: 15px;
+}
+div.jen{
+    border-bottom: 3px dotted rgb(189, 117, 117);
+    font-size: 20px;
+    color:rgb(139, 34, 34);
+    font-weight: 800;
+    width: 30cm;
+    padding-bottom: 10px;
+}
+   aside.datos{
+    margin: 6px;
+    padding: 20px;
+    background: rgb(212, 193, 193);
+        flex: 1 1 30%;
+   }
+      .primero{
+        border-bottom: 3px dotted rgb(139, 34, 34);
+      }
+         img.imagen{
+            border-radius: 80px;
+            padding: 5px;
+            border:ridge;
+            height: 6cm;
+         }
+         h2{
+            color:rgb(139, 34, 34);
+         }
+      article.segundo{
+        font-size: 19px;
+        padding: 2px;
+      }
+       .le{
+        font-size:20px ;
+       }
+        h4.señal{
+            font-size: 23px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: 700;      
+        }
+    article.lengua{
+        border-top: 3px dotted rgb(139, 34, 34);
+        padding-top: 10px;
+        display: flex;
+    }  
+   section.informacion{
+    flex: 1 1 70%;
+    font-size: 18px;
+    margin: 6px;
+    padding: 20px;
+   }
+       article.perfil{
+        border-bottom: 3px dotted rgb(189, 117, 117);
+       }
+       .tex{
+        padding-left: 15px;
+       }
+       article.experiencia{
+        border-bottom: 3px dotted rgb(189, 117, 117);
+       }
+        div.ult{
+            margin: 6px;
+            padding: 20px;
+        }
+       article.formacion{
+        padding-left: 3px;
+        border-bottom: 3px dotted rgb(189, 117, 117);
+        margin: 6px;
+        padding: 20px;
+       }
+       div.forma{
+        display: flex;
+       }
+       div.año{
+        width: 6cm;
+        margin-left: 10px;
+       }
+       .ca{
+        padding-top: 20px;
+       }
+       .a{
+        font-weight: 700;
+       }
+       h3.tema{
+        color:rgb(139, 34, 34);
+        font-weight: 700;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     }
+     ul{
+        margin: 0px;
+     }
+     .ultimo{
+        display: flex;
+        margin: 20px;
+        padding: 5px;
+     }
+     .habi{
+        padding-right: 3px;  
+     }
+     table{
+        padding-left: 100px;
+     }
+     td{
+        border-radius: 150px;
+        height: 3px;
+        width: 1%;
+        padding: 20px;
+        margin: 10px;        
+        background-color: rgb(189, 117, 117);
+     }
