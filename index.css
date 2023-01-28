@@ -44,6 +44,7 @@ div.jen{
       }
          img.imagen{
             border-radius: 50px;
+            padding: 3px
             margin-left: 60px;
             border:ridge;
             height: 6cm;
