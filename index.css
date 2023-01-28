@@ -43,8 +43,8 @@ div.jen{
         border-bottom: 3px dotted rgb(139, 34, 34);
       }
          img.imagen{
-            border-radius: 80px;
-            padding: 5px;
+            border-radius: 50px;
+            margin-left: 60px;
             border:ridge;
             height: 6cm;
          }
